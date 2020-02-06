@@ -1,0 +1,22 @@
+h1 {
+    font-family: "Gastromond", serif;
+    color: rosybrown;
+    font-size: 70pt;
+}
+
+h2 {
+    font-family: "Helvetica Neue", sans-serif;
+    color: darksalmon;
+    font-size: 36px;
+}
+
+p {
+    font-family: "Helvetica Neue", sans-serif;
+    color: white;
+    font-weight: lighter;
+}
+
+body {
+    background-color: peachpuff;
+    text-align: center;
+}
